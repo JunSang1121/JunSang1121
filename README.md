@@ -19,5 +19,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 
+***want!***
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunSang1121)](https://github.com/JunSang1121/github-readme-stats)
