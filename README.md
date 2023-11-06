@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
 
 
-***ing~*** 
-<img src="https://img.shields.io/badge/C Sharp-239120C?style=flat&logo=C Sharp&logoColor=white"/> 
+***ing~***  
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 
